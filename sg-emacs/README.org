@@ -1,0 +1,6 @@
+#+AUTHOR: Stephen Gustafson
+
+* Overview
+
+This is a collection of simple emacs customizations I've made over the yaears,
+mainly to fix various little things that annoy me.
